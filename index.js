@@ -1,3 +1,3 @@
 <script>
-<p>halo nama saya daril rahmatullah</p>
+console.log("halo nama saya daril")
 </script>
